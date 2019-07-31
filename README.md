@@ -1,2 +1,0 @@
-# dayaxstore
-Created with CodeSandbox
